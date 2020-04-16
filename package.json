@@ -1,0 +1,17 @@
+{
+  "name": "keycloak-json-diff-patch",
+  "version": "0.0.1",
+  "description": "Diff/Patch for KeyCloak configs",
+  "main": "index.js",
+  "author": "Chase Colman",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^13.11.1",
+    "fast-json-patch": "^3.0.0-1",
+    "ts-node": "^8.8.2",
+    "typescript": "^3.8.3"
+  },
+  "engines": {
+    "node": ">=7.0"
+  }
+}
