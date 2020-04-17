@@ -1,6 +1,6 @@
 {
   "name": "keycloak-json-diff-patch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Diff/Patch for KeyCloak configs",
   "main": "index.js",
   "author": "Chase Colman",

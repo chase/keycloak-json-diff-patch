@@ -14,7 +14,7 @@ function idComparator(a: TBaseKeyBase, b: TBaseKeyBase) {
   return 1;
 }
 
-const TRANSFORMED_KEY = '___TRANSFORMED___';
+export const TRANSFORMED_KEY = '___TRANSFORMED___';
 
 export function mapObjectArraysById(obj: object): object {
   if (!obj) {
